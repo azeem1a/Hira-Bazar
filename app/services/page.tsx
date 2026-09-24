@@ -78,7 +78,7 @@ const SERVICES_LIST: ServiceItem[] = [
       "Precision wall preparation and seamless alignment",
       "Turnkey service from consultation to final handover",
     ],
-    image: "/images/hospitality.jpg",
+    image: "/images/hira_wallpaper_japandi_suite.jpg",
     imageAlt: "Hira Bazaar Curtain King — luxury textured wallpaper master bedroom with warm cove lighting, Mysuru",
     aspect: "aspect-[16/10]",
   },
